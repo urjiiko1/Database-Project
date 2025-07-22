@@ -20,8 +20,8 @@ This database system aims to:
   * **[`Database Project.pdf`](https://github.com/urjiiko1/Database-Project/blob/main/Database%20Project.pdf )**: A detailed project report documenting the database design process, including:
       * Project objectives and scope. 🎯
       * Conceptual and Logical Schemas.
-      * **Entity-Relationship Diagram (ERD):** A visual representation of the database entities and their relationships. 🗺️ *(Consider embedding this image directly in the README for quick reference)*.
-      * **Database Diagram:** A visual representation of tables and their relationships. 🧩 *(Consider embedding this image directly in the README)*.
+      * **[`Entity-Relationship Diagram (ERD)`](https://github.com/urjiiko1/Database-Project/blob/main/Entity%20Relationship%20Diagram.png ):** A visual representation of the database entities and their relationships. 🗺️ .
+      * **[`Database Diagram`](https://github.com/urjiiko1/Database-Project/blob/main/Database%20Diagram.png):** A visual representation of tables and their relationships. 🧩 .
       * Normalization analysis (up to Third Normal Form - 3NF). ✅
       * Recommendations and conclusions. 📝
 
