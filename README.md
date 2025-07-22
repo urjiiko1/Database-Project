@@ -16,8 +16,8 @@ This database system aims to:
 
 ## 📂 Repository Contents
 
-  * **[`DB--Airlines.sql`](https://www.google.com/search?q=%5Bhttps://github.com/urjiiko1/Database-Project/blob/main/DB--Airlines.sql%5D\(https://github.com/urjiiko1/Database-Project/blob/main/DB--Airlines.sql\))**: This SQL script contains the complete database schema (DDL statements for `CREATE TABLE`) and `INSERT` statements for populating tables with sample data. It defines the structure and initial content of the database. 🏗️
-  * **[`Database Project.pdf`](https://www.google.com/search?q=%5Bhttps://github.com/urjiiko1/Database-Project/blob/main/Database%2520Project.pdf%5D\(https://github.com/urjiiko1/Database-Project/blob/main/Database%2520Project.pdf\))**: A detailed project report documenting the database design process, including:
+  * **[`DB--Airlines.sql`](https://github.com/urjiiko1/Database-Project/blob/main/DB--Airlines.sql )**: This SQL script contains the complete database schema (DDL statements for `CREATE TABLE`) and `INSERT` statements for populating tables with sample data. It defines the structure and initial content of the database. 🏗️
+  * **[`Database Project.pdf`](https://github.com/urjiiko1/Database-Project/blob/main/Database%20Project.pdf )**: A detailed project report documenting the database design process, including:
       * Project objectives and scope. 🎯
       * Conceptual and Logical Schemas.
       * **Entity-Relationship Diagram (ERD):** A visual representation of the database entities and their relationships. 🗺️ *(Consider embedding this image directly in the README for quick reference)*.
