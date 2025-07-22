@@ -16,7 +16,7 @@ This database system aims to:
 
 ## 📂 Repository Contents
 
-  * **[`DB Airlines.sql`](https://github.com/urjiiko1/Database-Project/blob/main/DB%20Airlines.sql)**: This SQL script contains the complete database schema (DDL statements for `CREATE TABLE`) and `INSERT` statements for populating tables with sample data. It defines the structure and initial content of the database. 🏗️
+  * **[`DB Airlines.sql`](https://github.com/urjiiko1/Database-Project/blob/main/DB%20Airlines.sql)**: This SQL script contains the complete database schema (DDL statements for `CREATE TABLE`) and `INSERT` statements for populating tables with sample data, **and a set of advanced queries for data analysis and reporting.** 🏗️
   * **[`Database Project.pdf`](https://github.com/urjiiko1/Database-Project/blob/main/Database%20Project.pdf )**: A detailed project report documenting the database design process, including:
       * Project objectives and scope. 🎯
       * Conceptual and Logical Schemas.
