@@ -1,6 +1,6 @@
-# Ethiopian Airlines Domestic Flights Database Project
+# Ethiopian Airlines Flights Database Project
 
-Welcome to the Ethiopian Airlines Domestic Flights Database Project repository\! This project presents a relational database solution designed to manage domestic flight operations, booking processes, and a special student discount system.
+Welcome to the Ethiopian Airlines Flights Database Project repository\! This project presents a relational database solution designed to manage mainly domestic flight operations, booking processes and a special student discount system.
 
 -----
 
@@ -8,15 +8,15 @@ Welcome to the Ethiopian Airlines Domestic Flights Database Project repository\!
 
 This database system aims to:
 
-  * **Streamline Operations:** Efficiently manage flight schedules, aircraft, and passenger information. 🗓️
+  * **Streamline Operations:** Efficiently manage flight schedules, aircraft and passenger information. 🗓️
   * **Student-Centric Discounts:** Integrate an ID-based discount system for university students, enhancing affordability. 💲
-  * **Comprehensive Data Model:** Provide a robust and normalized structure for all key airline entities, including `Student`, `Passenger`, `Airline`, `Airport`, `Aircraft`, `Flights`, `Bookings`, `Discount`, `CrewMembers`, and `CrewAssignment` data. 🗄️
+  * **Comprehensive Data Model:** Provide a robust and normalized structure for all key airline entities, including `Student`, `Passenger`, `Airline`, `Airport`, `Aircraft`, `Flights`, `Bookings`, `Discount`, `CrewMembers` and `CrewAssignment` data. 🗄️
 
 -----
 
 ## 📂 Repository Contents
 
-  * **[`DB Airlines.sql`](https://github.com/urjiiko1/Database-Project/blob/main/DB%20Airlines.sql)**: This SQL script contains the complete database schema (DDL statements for `CREATE TABLE`) and `INSERT` statements for populating tables with sample data, **and a set of advanced queries for data analysis and reporting.** 🏗️
+  * **[`DB Airlines.sql`](https://github.com/urjiiko1/Database-Project/blob/main/DB%20Airlines.sql)**: This SQL script contains the complete database schema (DDL statements for `CREATE TABLE`) and `INSERT` statements for populating tables with sample data **and a set of advanced queries for data analysis and reporting.** 🏗️
   * **[`Database Project.pdf`](https://github.com/urjiiko1/Database-Project/blob/main/Database%20Project.pdf )**: A detailed project report documenting the database design process, including:
       * Project objectives and scope. 🎯
       * Conceptual and Logical Schemas.
@@ -46,16 +46,16 @@ To explore this database project locally:
     cd Database-Project
     ```
 3.  **Set up the database:**
-      * Use a MySQL client (e.g., MySQL Workbench, DBeaver) to connect to a MySQL server. 🖥️
-      * Create a new database (e.g., `DBProject`).
-      * Execute the `DB--Airlines.sql` script within this new database to build the tables and insert the sample data. ➡️
-4.  **Review the documentation:** Open `Database Project.pdf` to gain a deeper understanding of the database design, its rationale, and the project's scope. 📖
+      * Use a MySQL client (e.g. MySQL Workbench, DBeaver) to connect to a MySQL server. 🖥️
+      * Create a new database (e.g. `DBProject`).
+      * Execute the `DB Airlines.sql` script within this new database to build the tables and insert the sample data. ➡️
+4.  **Review the documentation:** Open `Database Project.pdf` to gain a deeper understanding of the database design, its rationale and the project's scope. 📖
 
 -----
 
 ## 💡 Key Features
 
-  * **Integrated Booking System:** Facilitates flight search, selection, and reservation. 🎫
+  * **Integrated Booking System:** Facilitates flight search, selection and reservation. 🎫
   * **Student Discount Module:** Manages student registration and applies discounts based on university IDs. 🧑‍🎓
   * **Crew & Aircraft Management:** Tracks crew assignments and aircraft details for domestic flights. 🧑‍✈️
   * **Data Integrity:** Designed with normalization principles to ensure data consistency and reduce redundancy. 🔒
@@ -70,14 +70,12 @@ To explore this database project locally:
 
 -----
 
-## 🤝 Group Project
+## 🤝 Group Project: A Collaborative Endeavor 🧑‍💻📚
+This project is the culmination of an Advanced Database Group Project undertaken by students from Haramaya University 🎓's College of Computing and Informatics, Department of Information Science 📊💻. 
 
-This project was developed as an **Advanced Database Group Project** by students from Haramaya University, College of Computing and Informatics, Department of Information Science.
-
-Empowering efficient airline operations through robust database design\! 🌐
 
 -----
 
 **Date of Uploaded**: July 22, 2025 🗓️✅
 
-**By**: Gemachis Tesfaye [https://github.com/urjiiko1]
+**By**: Gemachis Tesfaye ✨ [https://github.com/urjiiko1]
